@@ -1,0 +1,97 @@
+header {
+  display: block;
+  height: 50px;
+}
+footer {
+  color: #6e6c5a;
+  font-family: cursive;
+  display: block;
+  height: 30px;
+  float: right;
+}
+body {
+  background-image: url(https://lh3.googleusercontent.com/proxy/JkGz_BJbuoXMt-KFe1E_ZXaOedlh4xqc8l17fJ4vR8_EuBRQkR0EjfoVscMvzCLE8f4Vv69W9BjUH68w7zxOEjGyv_J9QAHtRAKEfuKnSr_oVVFLALFasZ_F1JOpOixKT9niJS4Bnx3jANs=s0-d);
+background-size: cover;
+}
+.block ul {
+    list-style-type:circle;
+}
+
+#one  {
+  font-size: 17px;
+  margin-top: 10px;
+  float: left;
+  width: 15%
+}
+#two {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  float: left;
+  width: 85%;
+}
+
+#three  {
+  font-size: 17px;
+  float: left;
+  width: 15%
+}
+#four {
+  margin-bottom: 20px;
+  float: left;
+  width: 85%;
+  }
+
+#five  {
+  font-size: 17px;
+    float: left;
+    width: 15%;
+  }
+#six {
+  margin-bottom: 20px;
+  float: left;
+  width: 85%;
+}
+
+#seven {
+  font-size: 17px;
+  float: left;
+  width: 15%;
+}
+#eight {
+  margin-bottom: 20px;
+  float: left;
+  width: 85%;
+}
+
+#nine {
+  font-size: 17px;
+  float: left;
+  width: 15%;
+}
+#ten {
+  margin-bottom: 20px;
+  float: left;
+  width: 85%;
+}
+
+#eleven {
+  font-size: 17px;
+  float: left;
+  width: 15%;
+}
+#twelve {
+  margin-bottom: 20px;
+  float: left;
+  width: 85%;
+}
+
+#thirteen {
+  font-size: 17px;
+  float: left;
+  width: 15%;
+}
+#fourteen {
+  margin-bottom: 20px;
+  float: left;
+  width: 85%;
+}
