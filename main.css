@@ -1,7 +1,3 @@
-header {
-  display: block;
-  height: 50px;
-}
 footer {
   color: #6e6c5a;
   font-family: cursive;
@@ -9,22 +5,41 @@ footer {
   height: 30px;
   float: right;
 }
+
 body {
-  background-image: url(https://lh3.googleusercontent.com/proxy/JkGz_BJbuoXMt-KFe1E_ZXaOedlh4xqc8l17fJ4vR8_EuBRQkR0EjfoVscMvzCLE8f4Vv69W9BjUH68w7zxOEjGyv_J9QAHtRAKEfuKnSr_oVVFLALFasZ_F1JOpOixKT9niJS4Bnx3jANs=s0-d);
+  background-image: url(https://img.freepik.com/free-photo/gray-wall-textures-for-background_74190-4389.jpg?size=626&ext=jpg&ga=GA1.2.1085000067.1610150400);
 background-size: cover;
 }
+
+.link {
+  color: #034685;
+}
+.link:hover {
+  color: #0957d6;
+  text-decoration: none;
+}
+
+#main {
+  width: 500px;
+  border: 5px solid #5e5843;
+  border-bottom: 0;
+  border-style: double;
+  padding: 7px 10px;
+  border-radius: 10px 15%;
+}
+
 .block ul {
     list-style-type:circle;
 }
 
 #one  {
   font-size: 17px;
-  margin-top: 10px;
+  margin-top: 20px;
   float: left;
   width: 15%
 }
 #two {
-  margin-top: 10px;
+  margin-top: 20px;
   margin-bottom: 20px;
   float: left;
   width: 85%;
